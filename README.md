@@ -108,19 +108,19 @@ Use the following credentials to access the application:
 
 ### Login Page
 
-*(Add screenshot here)*
+<img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/f770008f-1af7-48d0-9388-7eb73afa81a0" />
 
 ### Home Page
 
-*(Add screenshot here)*
+<img width="1917" height="963" alt="image" src="https://github.com/user-attachments/assets/99d801bf-6472-4d4d-aec2-33c40a8340a6" />
 
 ### Search Results
 
-*(Add screenshot here)*
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/ed46e848-802c-4085-bdde-e1a607d550f7" />
 
 ### My Favourites
 
-*(Add screenshot here)*
+<img width="1910" height="952" alt="image" src="https://github.com/user-attachments/assets/d9d587de-1dce-4284-bc61-e185feed950b" />
 
 ---
 
