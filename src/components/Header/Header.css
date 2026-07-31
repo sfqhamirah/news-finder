@@ -1,0 +1,61 @@
+.header-bar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 20px;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.3);
+    background-color: rgba(255, 255, 255, 0.34);
+}
+
+.logo-text {
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    white-space: nowrap;
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+}
+
+.search-container {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.search-field {
+    width: 300px;
+    background-color: white;
+    border-radius: 4px;
+}
+
+.search-button {
+    background-color: #2563EB !important; /*This CSS rule should have higher priority than other normal rules*/
+    white-space: nowrap;
+    border-radius: 6px;
+}
+
+.user-container {
+    margin-left: auto;
+
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.user-chip {
+    background-color: #334155 !important;
+    color: white !important;
+}
+
+.user-chip .MuiChip-icon {
+    color: white !important;
+}
+
+.logout-button {
+    background-color: 2563EB !important;
+    border-radius: 6px;
+}
